@@ -9,8 +9,14 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
   </head>
-  
-  <? php include("menu.php"); ?>
+   <section class="page-header">
+      <h1 class="project-name">Projet PJS3</h1>
+      <h2 class="project-tagline"></h2>
+      <a href="https://github.com/Blackkey5/pjs3_project" class="btn">View on GitHub</a>
+      <a href="https://github.com/Blackkey5/pjs3_project/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/Blackkey5/pjs3_project/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+ 
   <body>
     <section class="main-content">
 
